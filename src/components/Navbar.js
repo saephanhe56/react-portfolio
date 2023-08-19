@@ -10,12 +10,4 @@ import React from "react";
 
 
 
-
-
-
-
-
-
-
-
-export default Header;
+export default Navbar;
